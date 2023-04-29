@@ -4,7 +4,3 @@
 //v2
 //git commit  --amend -m"v3"
 //v3
-//ben bittim kod bitmedi
-//v4
-//Süperizzzzz
-//v5
