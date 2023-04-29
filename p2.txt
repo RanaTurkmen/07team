@@ -2,3 +2,5 @@
 //v1
 //canım gülüşlerine hayranım
 //v2
+//git commit  --amend -m"v3"
+//v3

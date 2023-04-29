@@ -2,3 +2,6 @@
 //v1
 //güzel kodlar heyoooo.
 //v2
+//git commit  --amend -m"v3"
+//v3
+
