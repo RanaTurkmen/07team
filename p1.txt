@@ -4,4 +4,6 @@
 //v2
 //git commit  --amend -m"v3"
 //v3
+//değişiklik yapa yapa bir hal oldum.
+//v4
 
