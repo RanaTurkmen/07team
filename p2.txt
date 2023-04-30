@@ -5,3 +5,4 @@
 //git commit  --amend -m"v3"
 //v3
 //git diff kullanıcazz
+//pull deniyoruzz
